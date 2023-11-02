@@ -1,6 +1,6 @@
 """ Description: Topic challenge 7B Web Scraping
     Author: Nicole Muchow
-    Date: October 21, 2023
+    Date: October 21, 2023       
     Usage: Using HTML parser to scrape data from site."""
 
 from html.parser import HTMLParser
